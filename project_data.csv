@@ -1,0 +1,21 @@
+,Project Name,References,Username
+0,apache / spark,https://github.com/apache/spark,apache
+1,apache / hadoop,https://github.com/apache/hadoop,apache
+2,jbhuang0604 / awesome-computer-vision,https://github.com/jbhuang0604/awesome-computer-vision,jbhuang0604
+3,GSA / data,https://github.com/GSA/data,GSA
+4,GoogleTrends / data,https://github.com/GoogleTrends/data,GoogleTrends
+5,nationalparkservice / data,https://github.com/nationalparkservice/data,nationalparkservice
+6,fivethirtyeight / data,https://github.com/fivethirtyeight/data,fivethirtyeight
+7,beamandrew / medical-data,https://github.com/beamandrew/medical-data,beamandrew
+8,src-d / awesome-machine-learning-on-source-code,https://github.com/src-d/awesome-machine-learning-on-source-code,src-d
+9,igrigorik / decisiontree,https://github.com/igrigorik/decisiontree,igrigorik
+10,keon / awesome-nlp,https://github.com/keon/awesome-nlp,keon
+11,openai / gym,https://github.com/openai/gym,openai
+12,aikorea / awesome-rl,https://github.com/aikorea/awesome-rl,aikorea
+13,umutisik / Eigentechno,https://github.com/umutisik/Eigentechno,umutisik
+14,jpmckinney / tf-idf-similarity,https://github.com/jpmckinney/tf-idf-similarity,jpmckinney
+15,scikit-learn-contrib / lightning,https://github.com/scikit-learn-contrib/lightning,scikit-learn-contrib
+16,gwding / draw_convnet,https://github.com/gwding/draw_convnet,gwding
+17,scikit-learn / scikit-learn,https://github.com/scikit-learn/scikit-learn,scikit-learn
+18,tensorflow / tensorflow,https://github.com/tensorflow/tensorflow,tensorflow
+19,activeloopai / deeplake,https://github.com/activeloopai/deeplake,activeloopai
